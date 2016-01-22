@@ -22,13 +22,13 @@ Legacy support for Python 2 will follow later.
 Documentation
 -------------
 There's no documentation available for qqlolapi yet. Until then, use
-the source code to learn how to use the ``match`` and ``series `` endpoints.
+the source code to learn how to use the ``match`` and ``series`` endpoints.
 
 License
 -------
 
 The source code of qqlolapi is licensed by
-`the GNU LGPLv3 <https://github.com/flakeee/praw/blob/master/COPYING`_.
+`the GNU LGPLv3 <https://github.com/flakeee/praw/blob/master/COPYING>`_.
 
 Legal notice
 ------------
